@@ -1,0 +1,44 @@
+.container{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.image{
+    flex: 1;
+    margin-right: 20px;
+}
+.image img{
+    width: 400px;
+    border-radius: 50px;
+}
+.description{
+    flex: 1;
+}
+.description h1, .description h3, .description p{
+    color: #fff;
+}
+.description h1{
+    text-align: center;
+    font-size: 4rem;
+}
+.description h3{
+    text-align: center;
+    font-style: italic;
+    font-size: 2rem;
+}
+.description p{
+    font-size: 1rem;
+}
+.btn-custom{
+    border: none;
+    font-weight: bold;
+    font-size: 30px;
+    border-radius: 25px;
+    background-color: var(--button-color);
+    margin: 20px;
+    box-shadow: 0 5px 5px var(--active-color);
+}
+.btn-custom:hover{
+    background-color: var(--active-color);
+    color: #fff;
+}

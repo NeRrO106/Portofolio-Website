@@ -1,0 +1,67 @@
+.programming-skills p, .language-skills p, .other-skills p{
+    color: #fff;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.container-progress{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.column{
+    margin-left: 50px;
+    flex: 1;
+    min-width: 200px;
+}
+.progress-bar{
+    background-color: var(--progress-bar-fill);
+    font-weight: bold;
+    font-size: 15px;
+    color: #000;
+}
+.progress-header{
+    color: #fff;
+    font-size: 20px;
+}
+
+.card-text{
+    text-align: center;
+    color: #000;
+}
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 25px;
+    margin-left: 30px;
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #333;
+}
+.card img{
+    background-color: transparent !important;
+    margin-top: 10px;
+    width: 100px !important;
+    height: 100px !important;
+    object-fit: scale-down;
+}
+.card-body p{
+    font-size: .8rem;
+    font-weight: bold;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.language-skills ul{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    text-align: center;
+}
+.language-skills b{
+    color: #fff;
+}

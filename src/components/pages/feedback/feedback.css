@@ -1,0 +1,30 @@
+.client-side img{
+    width: 150px !important;
+    height: 100px !important;
+    background-color: #fff;
+    border-radius: 50px;
+}
+.info h3, .info p{
+    color: #000 !important;
+    text-align: center !important;
+}
+.client-side{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    align-items: center;
+}
+.info{
+    background-color: #fff;
+    border-radius: 30px;
+    height: fit-content;
+    margin: 30px;
+    box-shadow: 5px 5px 4px #540074;
+}
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 25px;
+    margin-left: 30px;
+}
