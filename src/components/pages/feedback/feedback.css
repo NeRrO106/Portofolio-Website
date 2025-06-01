@@ -28,3 +28,8 @@
     gap: 25px;
     margin-left: 30px;
 }
+.content h1{
+    color: #fff;
+    font-size: 2rem;
+    text-align: center;
+}

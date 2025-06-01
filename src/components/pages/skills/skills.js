@@ -2,7 +2,6 @@ import React from "react";
 import './skill.css';
 import bootstrapImg from '../../../img/other-skills-img/Bootstrap_logo.png';
 import dotnetImg from '../../../img/other-skills-img/dotnet.png';
-//mark
 import gitImg from '../../../img/other-skills-img/git.png';
 import bashImg from '../../../img/other-skills-img/bash.png';
 import ubuntuImg from '../../../img/other-skills-img/Ubuntu.png';
@@ -340,11 +339,11 @@ const Skills = () =>{
                 </li>
                 <li>
                     <b>French</b>
-                    <p>Learning</p>
+                    <p>A2</p>
                 </li>
                 <li>
                     <b>Spanish</b>
-                    <p>Learning</p>
+                    <p>A1</p>
                 </li>
             </ul>
         </div>

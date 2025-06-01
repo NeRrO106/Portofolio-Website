@@ -15,16 +15,9 @@ const Contact = () => {
       <div className="content">
         <img src={portret} alt="Poza" />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos odit
-          fugit accusamus dolore, odio quo soluta vero aliquid dolorem iusto hic
-          distinctio ullam impedit qui laudantium, sunt omnis explicabo
-          consequatur? Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Alias sapiente neque nulla quibusdam rerum impedit voluptatem,
-          voluptates eaque, odio officia cum velit possimus quasi dolore
-          laboriosam natus laborum, soluta consequatur? Lorem ipsum dolor sit,
-          amet consectetur adipisicing elit. Illum autem illo quae quaerat
-          necessitatibus quos explicabo perferendis? Eos, quaerat sit repellat
-          harum sapiente impedit distinctio cum labore, quo ipsam mollitia?
+          Dacă ai un proiect interesant, o idee pe care vrei să o dezvoltăm împreună sau pur și simplu vrei să discutăm, nu ezita să mă contactezi.
+          Sunt mereu deschis la colaborări și provocări noi.
+          📩 Hai să colaborăm — trimite-mi un mesaj!
         </p>
         <div className="social-media">
           <div className="mb-3 custom-social">

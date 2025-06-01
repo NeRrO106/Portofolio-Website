@@ -136,16 +136,43 @@
         "youtube": "youtube.com"
     },
     {
-        //python
+        "id":22,
+        "title": "Website for Guesthouses (unfinished)",
+        "description": "I have created a website for guesthouses, where users can book rooms for a specific period. I was about to implement an admin panel where rooms can be added and removed, as well as a gallery system for the rooms.",
+        "technologies": ["Frontend", "React", "Bootstrap5", "FirebaseDatabase"],
+        "link": "https://github.com/NeRrO106/Website-Pensiune",
+        "youtube":"youtube.com"
     },
     {
-        //frontend
+        "id": 20,
+        "title": "Restaurant Website",
+        "description": "I have created a website for a restaurant that includes a digital menu, an ordering system, and an admin panel where orders can be viewed, and products can be added, deleted, or edited.",
+        "technologies": ["FullStack", "React", "HTML5", "CSS3", "Bootstrap5", "Django", "SQL"],
+        "link": ["https://github.com/NeRrO106/ParadoXall", "https://github.com/NeRrO106/ParadoXall-backend"],
+        "youtube":"youtube.com"
     },
     {
-        //fullstack
+        "id": 21,
+        "title": "Restaurant app(unfinished)",
+        "description": "I have created a prototype for a restaurant app that features a digital menu with prices, and includes a login/registration system with password recovery via email. I was about to implement the permissions system and the ordering system.",
+        "technologies": ["FullStack", "React-Native", "Bootstrap5", "NodeJS"],
+        "link": "https://github.com/NeRrO106/Restaurant-App",
+        "youtube":"youtube.com"
     },
     {
-        //unity
+        "id": 18,
+        "title": "Maze Runner - Maze Escape",
+        "description": "This project is a maze escape game built using Unity. Players navigate through a maze to find the exit, testing their problem-solving skills and spatial awareness.",
+        "technologies": "Unity",
+        "link": "https://github.com/NeRrO106/Maze-Runner-Maze-Escape",
+        "youtube": "youtube.com"
+    },
+    {
+        "id": 19,
+        "title": "Maze Runner - Laboratory Escape",
+        "description": "This project is a maze escape game developed using Unity. In this game, players navigate through a laboratory-themed maze to find the exit, solving puzzles and avoiding obstacles along the way.",
+        "technologies": "Unity",
+        "link": "https://github.com/NeRrO106/Maze-Runner-Laboratory-Escape",
+        "youtube": "youtube.com"
     }
   ]
-  
