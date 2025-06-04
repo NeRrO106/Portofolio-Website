@@ -1,8 +1,8 @@
 :root{
   --bg-color: #242424;
-  --primary-bg-color: #00bce3;
-  --active-color:#540074;
-  --button-color: #e0cd25;
+  --primary-bg-color: #4f46e5;
+  --active-color:#e0e7ff;
+  --button-color: #6366f1;
   --progress-bar-bg: #006176;
   --progress-bar-fill: var(--primary-bg-color);
 

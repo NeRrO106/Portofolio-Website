@@ -17,7 +17,7 @@
     background-color: var(--progress-bar-fill);
     font-weight: bold;
     font-size: 15px;
-    color: #000;
+    color: #fff;
 }
 .progress-header{
     color: #fff;

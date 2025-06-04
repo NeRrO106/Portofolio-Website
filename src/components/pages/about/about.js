@@ -19,11 +19,11 @@ const AboutMe = () =>{
                     în munca individuală, cât și în echipe colaborative.
                 </p>
                 <div>
-                    <a href={CVAndrei} download="Andrei" rel="noopener">
-                        <button className="btn btn-custom">Curriculum vitae(download)</button>
+                    <a href={CVAndrei} target="_blank" rel="noreferrer">
+                        <button className="btn btn-custom">Curriculum vitae</button>
                     </a>
-                    <a href={Certification} download="Certificari_Andrei_Cosma" rel="noopener">
-                        <button className="btn btn-custom">Certification(download)</button>
+                    <a href={Certification} target="_blank" rel="noreferrer">
+                        <button className="btn btn-custom">Certification</button>
                     </a>
                 </div>
             </div>
